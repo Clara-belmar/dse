@@ -5,9 +5,9 @@
 * Kathrein P. - Engenheira de Hardware
 * Clara B. - Gerente de documentação
 * Guilherme P. - Designer e Engenheiro de Software
-* Carlos M. - Banco/teste
-* José L. - Banco
-* João D. - pesquisador/teste
+* Carlos M. - Orçamento/teste
+* José L. - Orçamento
+* João D. - Pesquisador/teste
 
 **Data:** 13/08/2025
 **Versão:** 1.0
@@ -29,13 +29,15 @@
 
 ### 4. Descrição Técnica
 * **Funcionamento:**
-    *esse projeto irá funcionar com botões coloridos que serão pressionandos quando o led correspondente for aceso, quanto mais botões forem apertados, mais pontos serão somados*
+    *esse projeto irá funcionar com botões que serão pressionandos quando o led correspondente for aceso, quanto mais botões forem apertados, mais pontos serão somados*
 
 * **Diagrama de Blocos:**
+   
     ![alt text](fluxograma.jpg "Fluxograma")
 
 * **Esquema Elétrico:**
-    *(Insira uma imagem do esquema elétrico do circuito, desenhado em ferramentas como Fritzing ou Tinkercad.)*
+    
+    ![alt text](esquemaEletrico.jpg "Esquema elétrico")
 
 ### 5. Lista de Materiais e Orçamento
 
@@ -57,14 +59,14 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Fase 1: Pesquisa e Ideação | Todos | 30/07 | 30/07 | Concluído |
 | Fase 2: Documentação e Orçamento | Clara B., Carlos M. e José L. | 13/08 | 14/08 | Concluído |
-| Fase 3: Testes | Carlos M. e João D. | 27/08 | DD/MM | Em andamento |
+| Fase 3: Testes | Clara B. | 27/08 | 02/09 | concluído |
 | Fase 4: Aquisição de Material | Carlos M. e José L. | DD/MM | DD/MM | [ ] A Fazer |
 | Fase 5: Montagem do Protótipo | Alyson M. e Kathrein P. | DD/MM | DD/MM | [ ] A Fazer |
 | ... | ... | ... | ... | ... |
 
 
 ### 7. Riscos e Mitigação
-* **Risco:** Algum componente queima durante os testes.
+* **Risco:** Algum componente queima durante a montagem.
     * **Mitigação:** Comprar um componente reserva se o orçamento permitir. Ter cuidado extra com a voltagem e as conexões elétricas.
 * **Risco:** Atraso na entrega dos componentes comprados online.
     * **Mitigação:** Comprar com antecedência e ter um "Plano B" com fornecedores locais, mesmo que um pouco mais caros.
